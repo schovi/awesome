@@ -2,10 +2,9 @@
 
 ## Javascript
 
+
 ### React
 
-- missing :)
-- 
 
 ### React Native
 
