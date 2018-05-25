@@ -2,6 +2,11 @@
 
 ## Javascript
 
+- [Algorithms and data structures in js](https://github.com/trekhleb/javascript-algorithms#readme)
+
+### npm packages
+
+- [Launch browser](https://github.com/juliangruber/just-launch)
 
 ### React
 
@@ -14,5 +19,9 @@
 
 - [Webpack - the confusing parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9)
 
-### Editors
+### Testing
+
+- 
+
+## Editors
 - [VSCode can do that](https://vscodecandothat.com/)
