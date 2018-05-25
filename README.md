@@ -3,7 +3,7 @@
 ## Javascript
 
 
-### React
+### React
 
 
 ### React Native
@@ -13,3 +13,6 @@
 ### Webpack
 
 - [Webpack - the confusing parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9)
+
+### Editors
+- [https://vscodecandothat.com/](VSCode can do that)
