@@ -23,7 +23,7 @@
 
 ### Testing
 
-- 
+- [Jest](https://facebook.github.io/jest/)
 
 ## Editors
 
