@@ -8,11 +8,11 @@
 
 ### React Native
 
-- [https://share.viget.com/sxsw/learning-react-native/index.html](Learning React native)
+- [Learning React native](https://share.viget.com/sxsw/learning-react-native/index.html)
 
 ### Webpack
 
 - [Webpack - the confusing parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9)
 
 ### Editors
-- [https://vscodecandothat.com/](VSCode can do that)
+- [VSCode can do that](https://vscodecandothat.com/)
