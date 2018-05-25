@@ -15,10 +15,12 @@
 - [Nod - another boilerplate](https://github.com/diegohaz/nod)
 - [Day js - better date handling](https://github.com/iamkun/dayjs)
 - [ow - Functional validations](https://github.com/sindresorhus/ow)
+- [lru - cache](https://github.com/arbazsiddiqui/lru-cache-node)
 
 ### React
 
 - [Example of different state/store solutions](https://github.com/GantMan/ReactStateMuseum)
+- [Structure and Naming of app](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 
 - **UI**
   - [RSuite](https://rsuitejs.com/en/)
@@ -37,6 +39,10 @@
 
 - [Jest](https://facebook.github.io/jest/)
 
+## GraphQL
+
+- [urql](https://github.com/FormidableLabs/urql)
+
 ## Ruby
 
 - [Ultra small and simple Pagination Pagy](https://github.com/ddnexus/pagy)
@@ -49,6 +55,7 @@
 ## Databases
 
 - [Avoid using OR](https://www.cybertec-postgresql.com/en/avoid-or-for-better-performance/)
+- [Postgres HOWTO](https://popsql.io/learn-sql/postgresql/)
 
 ## Editors
 
