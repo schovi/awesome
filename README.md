@@ -3,6 +3,7 @@
 ## Javascript
 
 - [Algorithms and data structures in js](https://github.com/trekhleb/javascript-algorithms#readme)
+- [A Better Promise](https://gist.github.com/getify/1173cac45d15fc4ff0a880f32fd598ab)
 
 ### npm packages
 
