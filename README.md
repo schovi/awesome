@@ -11,7 +11,8 @@
 - [Launch browser](https://github.com/juliangruber/just-launch)
 - [Copy anything](https://github.com/planttheidea/fast-copy)
 - [local-repl - Project specific repl - rails line](https://github.com/sloria/local-repl)
-- [Noderize app blueprint](https://noderize.js.org/docs/introduction.html)
+- [Noderize - app boilerplate](https://noderize.js.org/docs/introduction.html)
+- [Nod - another boilerplate](https://github.com/diegohaz/nod)
 - [Day js - better date handling](https://github.com/iamkun/dayjs)
 - [ow - Functional validations](https://github.com/sindresorhus/ow)
 
