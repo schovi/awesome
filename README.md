@@ -25,6 +25,10 @@
 
 - [Jest](https://facebook.github.io/jest/)
 
+## Ruby
+
+- [Ultra small and simple Pagination Pagy](https://github.com/ddnexus/pagy)
+
 ## Editors
 
 - [VSCode can do that](https://vscodecandothat.com/)
