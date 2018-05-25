@@ -13,11 +13,15 @@
 - [local-repl - Project specific repl - rails line](https://github.com/sloria/local-repl)
 - [Noderize app blueprint](https://noderize.js.org/docs/introduction.html)
 - [Day js - better date handling](https://github.com/iamkun/dayjs)
+- [ow - Functional validations](https://github.com/sindresorhus/ow)
 
 ### React
 
+- [Example of different state/store solutions](https://github.com/GantMan/ReactStateMuseum)
+
 - **UI**
   - [RSuite](https://rsuitejs.com/en/)
+  - [react-reduction - Admin templates](https://github.com/reduction-admin/react-reduction)
 
 ### React Native
 
@@ -41,6 +45,10 @@
 - [Soft delete right](https://github.com/jhawthorn/discard)
 - [Heroku + Rails + Rails + ActiveAdmin](https://blog.heroku.com/a-rock-solid-modern-web-stack)
 
+## Databases
+
+- [Avoid using OR](https://www.cybertec-postgresql.com/en/avoid-or-for-better-performance/)
+
 ## Editors
 
 - [VSCode can do that](https://vscodecandothat.com/)
@@ -49,3 +57,7 @@
 
 - [How to do dark theme for your app](https://medium.com/@mwichary/dark-theme-in-a-day-3518dde2955a)
 - [Twitter client design !!](https://twitter.com/oskar/status/996643929666805761)
+
+## Reading
+
+- 
