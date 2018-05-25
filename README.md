@@ -4,10 +4,15 @@
 
 - [Algorithms and data structures in js](https://github.com/trekhleb/javascript-algorithms#readme)
 - [A Better Promise](https://gist.github.com/getify/1173cac45d15fc4ff0a880f32fd598ab)
+- [Online sandbox/playground](https://glitch.com/)
 
 ### npm packages
 
 - [Launch browser](https://github.com/juliangruber/just-launch)
+- [Copy anything](https://github.com/planttheidea/fast-copy)
+- [local-repl - Project specific repl - rails line](https://github.com/sloria/local-repl)
+- [Noderize app blueprint](https://noderize.js.org/docs/introduction.html)
+- [Day js - better date handling](https://github.com/iamkun/dayjs)
 
 ### React
 
@@ -34,6 +39,7 @@
 ### Rails
 
 - [Soft delete right](https://github.com/jhawthorn/discard)
+- [Heroku + Rails + Rails + ActiveAdmin](https://blog.heroku.com/a-rock-solid-modern-web-stack)
 
 ## Editors
 
@@ -42,3 +48,4 @@
 ## Design /Graphic
 
 - [How to do dark theme for your app](https://medium.com/@mwichary/dark-theme-in-a-day-3518dde2955a)
+- [Twitter client design !!](https://twitter.com/oskar/status/996643929666805761)
