@@ -31,6 +31,10 @@
 
 - [Ultra small and simple Pagination Pagy](https://github.com/ddnexus/pagy)
 
+### Rails
+
+- [Soft delete right](https://github.com/jhawthorn/discard)
+
 ## Editors
 
 - [VSCode can do that](https://vscodecandothat.com/)
