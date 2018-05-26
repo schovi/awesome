@@ -69,4 +69,5 @@
 
 ## Reading
 
+- [Grumpy website - good comments on bad UI and UX](https://grumpy.website/)
 - [Github resume (CV)](https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127) 
