@@ -5,6 +5,7 @@
 - [Algorithms and data structures in js](https://github.com/trekhleb/javascript-algorithms#readme)
 - [A Better Promise](https://gist.github.com/getify/1173cac45d15fc4ff0a880f32fd598ab)
 - [Online sandbox/playground](https://glitch.com/)
+- [Types in typescript](http://2ality.com/2018/04/type-notation-typescript.html)
 
 ### npm packages
 
