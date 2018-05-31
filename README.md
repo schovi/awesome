@@ -56,7 +56,9 @@
 ## Databases
 
 - [Avoid using OR](https://www.cybertec-postgresql.com/en/avoid-or-for-better-performance/)
-- [Postgres HOWTO](https://popsql.io/learn-sql/postgresql/)
+- **Postgres**
+  - [Postgres HOWTO](https://popsql.io/learn-sql/postgresql/)
+  - [Generating json with Postgres](https://blog.bigbinary.com/2018/05/29/generating-json-using-postgresql-json-function.html)
 
 ## Editors
 
