@@ -23,7 +23,7 @@
 - [Example of different state/store solutions](https://github.com/GantMan/ReactStateMuseum)
 - [Structure and Naming of app](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 - [Tips for structure](https://hackernoon.com/tips-on-react-for-large-scale-projects-3f9ece85983d)
-
+- [Ideal image](https://github.com/stereobooster/react-ideal-image/blob/master/introduction.md)
 - **UI**
   - [RSuite](https://rsuitejs.com/en/)
   - [react-reduction - Admin templates](https://github.com/reduction-admin/react-reduction)
