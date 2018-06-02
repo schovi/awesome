@@ -24,9 +24,11 @@
 - [Structure and Naming of app](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 - [Tips for structure](https://hackernoon.com/tips-on-react-for-large-scale-projects-3f9ece85983d)
 - [Ideal image](https://github.com/stereobooster/react-ideal-image/blob/master/introduction.md)
+- [Kit - component browser](https://compositor.io/kit/)
 - **UI**
   - [RSuite](https://rsuitejs.com/en/)
   - [react-reduction - Admin templates](https://github.com/reduction-admin/react-reduction)
+  - [Smooth UI - using styled components](https://smooth-ui.smooth-code.com/)
 
 ### React Native
 
@@ -61,6 +63,9 @@
   - [Postgres HOWTO](https://popsql.io/learn-sql/postgresql/)
   - [Generating json with Postgres](https://blog.bigbinary.com/2018/05/29/generating-json-using-postgresql-json-function.html)
 
+## Tools
+- [Mermaid - Markdown like diagram and flowchart creator](https://github.com/knsv/mermaid)
+
 ## Editors
 
 - [VSCode can do that](https://vscodecandothat.com/)
@@ -75,3 +80,4 @@
 - [Grumpy website - good comments on bad UI and UX](https://grumpy.website/)
 - [Github resume (CV)](https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127) 
 - [Varios physic examples and explanations with javascript examples](https://landgreen.github.io/physics/index.html)
+- [Czech Apple webinars on different topic (photos, sharing etc...)](https://ipure.cz/nezarazene/bezplatne-apple-webinare-ipure-cz/)
