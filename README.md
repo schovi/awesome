@@ -81,3 +81,4 @@
 - [Github resume (CV)](https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127) 
 - [Varios physic examples and explanations with javascript examples](https://landgreen.github.io/physics/index.html)
 - [Czech Apple webinars on different topic (photos, sharing etc...)](https://ipure.cz/nezarazene/bezplatne-apple-webinare-ipure-cz/)
+- [JULIA'S DRAWINGS - Unix internals with nice comics like drawings](https://drawings.jvns.ca/)
