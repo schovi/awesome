@@ -75,6 +75,10 @@
 - [How to do dark theme for your app](https://medium.com/@mwichary/dark-theme-in-a-day-3518dde2955a)
 - [Twitter client design !!](https://twitter.com/oskar/status/996643929666805761)
 
+## ML
+
+- [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
+
 ## Reading
 
 - [Grumpy website - good comments on bad UI and UX](https://grumpy.website/)
