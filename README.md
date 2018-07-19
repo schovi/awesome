@@ -44,6 +44,10 @@
 
 - [Jest](https://facebook.github.io/jest/)
 
+## Elasticsearch
+
+- [Finding similiar images](https://github.com/alexklibisz/elastik-nearest-neighbors/blob/master/README.md)
+
 ## GraphQL
 
 - [urql](https://github.com/FormidableLabs/urql)
